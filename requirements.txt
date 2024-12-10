@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+sqlalchemy
+psycopg2
+openpyxl
+selenium
+python-dotenv
