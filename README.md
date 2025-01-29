@@ -1,7 +1,7 @@
 # Nome do Projeto
 
 **Descrição do Projeto:**  
-Breve explicação sobre o propósito do projeto e o que ele faz.
+Esta é uma estrutura básica para você poder usar no seu projeto de análise de dados.
 
 ## Dependências
 
