@@ -24,5 +24,4 @@ Siga os passos abaixo para instalar e rodar o projeto:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
-   cd seurepositorio
+   git clone https://github.com/felipeioavasso/Estrutura_analise_de_dados.git
